@@ -14,4 +14,4 @@
 | usabilidade else if, switch                         | [aula06](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula06)  | 19/07/2022 |
 | estrutura de repetição                              | [aula07](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula07)  | 20/07/2022 |
 | operadores                                          | [aula08](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula08)  | 21/07/2022 |
-|                                                     | aula09                                                                       | 22/07/2022 |
+| exercicio                                           | [aula09](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula09)  | 22/07/2022 |

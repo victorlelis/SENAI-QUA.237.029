@@ -15,7 +15,7 @@
 | estrutura de repetição                              | [aula07](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula07)  | 20/07/2022 |
 | operadores                                          | [aula08](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula08)  | 21/07/2022 |
 | exercicio                                           | [aula09](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula09)  | 22/07/2022 |
-| estrutura html, tags, formulario                    | [aula10]https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula10    | 25/07/2022 |
+| estrutura html, tags, formulario                    | [aula10](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula10)  | 25/07/2022 |
 | integração html e php, exercicios                   | [aula11](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula11)  | 26/07/2022 |
 |                                                     | aula12                                                                       | 27/07/2022 |
 |                                                     | aula13                                                                       | 28/07/2022 |

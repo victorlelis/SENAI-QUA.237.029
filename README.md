@@ -19,4 +19,4 @@
 | integração html e php, exercicios                   | [aula11](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula11)  | 26/07/2022 |
 | listas e tabelas                                    | [aula12](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula12)  | 27/07/2022 |
 | div, html semantico, bootstrap                      | [aula13](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula13)  | 28/07/2022 |
-|                                                     | aula14                                                                       | 29/07/2022 |
+| exercicio html                                      | [aula14](https://github.com/victorlelis/SENAI-QUA.237.029/tree/main/aula14)  | 29/07/2022 |

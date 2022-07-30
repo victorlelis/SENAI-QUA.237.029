@@ -1,3 +1,4 @@
+<h3>While</h3>
 <?php
 
 /**
@@ -6,7 +7,7 @@
 
 $contador = 1;
 while ($contador <= 10) {
-  echo $contador . "\n";
+  echo $contador . "<br>";
   $contador++;
 }
 
@@ -16,6 +17,6 @@ while ($contador <= 10) {
 
 $contador = 1;
 while ($contador <= 10) {
-  echo "2 x " . $contador . " = " . $contador * 2 . "\n";
+  echo "2 x " . $contador . " = " . $contador * 2 . "<br>";
   $contador++;
 }

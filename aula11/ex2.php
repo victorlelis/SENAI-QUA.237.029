@@ -1,3 +1,4 @@
+<h3>Exercício 2</h3>
 <?php
 
 $multa = $_POST['multa'];

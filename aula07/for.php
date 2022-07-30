@@ -1,3 +1,4 @@
+<h3>For</h3>
 <?php
 
 /**
@@ -5,7 +6,7 @@
  */
 
 for ($contador = 0; $contador < 10; $contador++) {
-  echo $contador . "\n";
+  echo $contador . "<br>";
 }
 
 /**
@@ -13,5 +14,5 @@ for ($contador = 0; $contador < 10; $contador++) {
  */
 
 for ($contador = 1; $contador <= 10; $contador++) {
-  echo "2 x " . $contador . " = " . $contador * 2 . "\n";
+  echo "2 x " . $contador . " = " . $contador * 2 . "<br>";
 }

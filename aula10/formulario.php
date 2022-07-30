@@ -1,5 +1,5 @@
-<h3>Exerício 3</h3>
-<form method="post" action="?aula=aula11&arquivo=recebe.php">
+<h3>Formulário</h3>
+<form method="post" action="?aula=aula10&arquivo=recebe.php">
   <label for="nome">Nome:</label>
   <br>
   <input type="text" placeholder="Nome" id="nome" name="nome">
@@ -12,9 +12,9 @@
   <br>
   <label>Sexo:</label>
   <br>
-  <input type="radio" name="sexo" id="masculino" value="1">
+  <input type="radio" name="sexo" id="masculino" value="Masculino">
   <label for="masculino">Masculino</label>
-  <input type="radio" name="sexo" id="feminino" value="2">
+  <input type="radio" name="sexo" id="feminino" value="Feminino">
   <label for="feminino">Feminino</label>
   <br>
   <br>

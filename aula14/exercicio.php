@@ -3,7 +3,7 @@
   <!-- nav, div, a, b, ul, li -->
   <nav class="bg-dark sticky-top">
     <div class="container d-flex justify-content-between align-items-center">
-      <a class="text-uppercase text-decoration-none link-light py-4" href="./exercicio.html">
+      <a class="text-uppercase text-decoration-none link-light py-4" href="?aula=aula14&arquivo=exercicio.php">
         <b>Blog</b>
       </a>
       <ul class="d-flex mb-0 list-unstyled gap-4">

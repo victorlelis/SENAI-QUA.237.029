@@ -40,7 +40,7 @@ foreach ($arquivo as $aula) {
           $diretorio = dir($path);
 
           ?>
-          <h2 class="h5 mb-3">Arquivos: </h2>
+          <h2 class="h5 mb-3">Arquivos da aula:</h2>
           <?php
           while ($arquivo = $diretorio->read()) {
             if ($arquivo != "." && $arquivo != ".." && !strpos($arquivo, ".png")  && !strpos($arquivo, ".jpg")) {

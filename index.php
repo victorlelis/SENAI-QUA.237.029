@@ -27,7 +27,7 @@ foreach ($arquivo as $aula) {
     <div class="row">
       <div class="col-12">
         <div class="mb-3">
-          <a class="btn btn-secondary" href="/">ínicio</a>
+          <a class="btn btn-secondary" href="./">ínicio</a>
           <?php if ($getAula && $getArquivo) : ?>
             <a class="btn btn-secondary" href="?aula=<?= $getAula; ?>"><?= $getAula; ?></a>
           <?php endif; ?>

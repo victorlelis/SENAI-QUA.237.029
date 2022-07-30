@@ -36,7 +36,7 @@ foreach ($arquivo as $aula) {
                 </p>
               </div>
               <div class="position-absolute w-100" style="bottom: 10px; left: 0;">
-                <a class="btn btn-secondary text-decoration-none" href="./aula01">
+                <a class="btn btn-secondary text-decoration-none" href="./<?= $aula[0]; ?>">
                   acessar aula
                 </a>
               </div>

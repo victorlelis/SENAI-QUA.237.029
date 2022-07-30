@@ -43,7 +43,7 @@ foreach ($arquivo as $aula) {
           <h2 class="h5 mb-3">Arquivos: </h2>
           <?php
           while ($arquivo = $diretorio->read()) {
-            if ($arquivo != "." && $arquivo != ".." && !str_contains($arquivo, ".png")  && !str_contains($arquivo, ".jpg")) {
+            if ($arquivo != "." && $arquivo != ".." && !strpos($arquivo, ".png")  && !strpos($arquivo, ".jpg")) {
           ?>
               <a class="link-primary text-decoration-none mb-3" href='?aula=<?= $getAula; ?>&arquivo=<?= $arquivo; ?>'><?= $arquivo; ?></a><br />
           <?php

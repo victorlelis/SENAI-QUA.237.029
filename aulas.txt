@@ -1,0 +1,14 @@
+aula14 | exercicio html	                                          | 29/07/2022
+aula13 | div, html semantico, bootstrap	                          | 28/07/2022
+aula12 | listas e tabelas	                                        | 27/07/2022
+aula11 | integração html e php, exercicios	                      | 26/07/2022
+aula10 | estrutura html, tags, formulario	                        | 25/07/2022
+aula09 | exercicio                                                | 22/07/2022
+aula08 | operadores                                               | 21/07/2022
+aula07 | estrutura de repetição	                                  | 20/07/2022
+aula06 | usabilidade else if, switch                              | 19/07/2022
+aula05 | correção ex., extensões vscode, const, isset, unset      | 18/07/2022
+aula04 | exercício                                                | 15/07/2022
+aula03 | echo, comentários, variáveis, if, else if, else          | 14/07/2022
+aula02 | lógica de programação, configurando ambiente             | 13/07/2022
+aula01 | aula inaugural                                           | 12/07/2022

@@ -1,8 +1,8 @@
 <?php
 $arquivo = file("aulas.txt");
 $aulas = [];
-$getAula = $_GET['aula'];
-$getArquivo = $_GET['arquivo'];
+$getAula = $_GET['aula'] ?? '';
+$getArquivo = $_GET['arquivo'] ?? '';
 
 foreach ($arquivo as $aula) {
   $aula = explode("|", $aula);
